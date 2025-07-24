@@ -203,7 +203,3 @@ Enter Entries Count:  254
 
 **Fady Mahrous**
 [GitHub Profile](https://github.com/fadymahrous)
-
----
-
-Would you like this returned as a downloadable `.md` file or added back into your project directly?

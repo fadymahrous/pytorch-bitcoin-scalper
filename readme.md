@@ -1,6 +1,4 @@
-Here is a polished and professionally revised version of your `README.md` file:
 
----
 
 # Bitcoin\_Scalping\_PyTorch\_LSTM
 
